@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Greg Hunt",
+    "section": "",
+    "text": "Statistical Consultant\n\nProviding quantitative and computational support for complex problems.\n\nWilliamsburg, VA · Remote consulting available\n\nContact me View CV"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Greg Hunt",
+    "section": "About",
+    "text": "About\n\n\nI am an academic statistician with over a decade of experience. I have an M.A. and Ph.D. in Statistics from the University of Michigan and undergraduate degrees in mathematics and computer science. My work combines statistical methodology, applied data analysis, machine learning, reproducible computing, and interdisciplinary research. I have a record of collaboration across biomedical research, engineering, scientific computing, and applied data analysis, with an emphasis on careful modeling, transparent computation, and clear communication of statistical results.\n\n\n\n\n\n\nNoteIndependent consulting\n\n\n\nConsulting work described on this site is independent and is not offered on behalf of, reviewed by, or endorsed by William & Mary.\n\n\n\n\n\nCV · Google Scholar"
+  },
+  {
+    "objectID": "index.html#services",
+    "href": "index.html#services",
+    "title": "Greg Hunt",
+    "section": "Services",
+    "text": "Services\nI provide independent statistical consulting for individuals and organizations that need careful quantitative reasoning, reproducible analysis, and clear communication of results.\nExample services include:\n\n\n\nDesign\n\n\nStudy design\nSupport for research questions, experimental structure, measurement plans, replication strategies, and analysis plans.\n\n\n\n\nPlanning\n\n\nPower and simulation\nPower analysis, sample size planning, simulation studies, and sensitivity checks for designs.\n\n\n\n\nModeling\n\n\nStatistical modeling\nRegression, ANOVA, generalized linear models, mixed models, clustering, dimensionality reduction, exploratory analysis, and visualization.\n\n\n\n\nPrediction\n\n\nMachine learning\nApplied machine learning for prediction, approximation, feature engineering, model evaluation, and scientific data analysis.\n\n\n\n\nWorkflow\n\n\nReproducible analysis\nTransparent analysis workflows using modern tool stacks such as R, Python, Quarto, Jupyter, Docker, and Git.\n\n\n\n\nCommunication\n\n\nManuscripts and grants\nStatistical review, methods sections, reviewer responses, analysis documentation, and grant proposal support."
+  },
+  {
+    "objectID": "index.html#areas-of-expertise",
+    "href": "index.html#areas-of-expertise",
+    "title": "Greg Hunt",
+    "section": "Areas of expertise",
+    "text": "Areas of expertise\nMy expertise spans statistical and data science methodology broadly, including applied data analysis, machine learning, and scientific computing. I have experience with applications in biomedical research, high-throughput imaging, omics, spectroscopy, engineering, social sciences, and other applied domains."
+  },
+  {
+    "objectID": "index.html#who-i-work-with",
+    "href": "index.html#who-i-work-with",
+    "title": "Greg Hunt",
+    "section": "Who I work with",
+    "text": "Who I work with\nI work with individuals, researchers, organizations, and teams who need help making sense of data, planning analyses, or answering quantitative questions carefully.\nProjects can range from a brief consultation or review of an existing approach to a focused analysis or longer-term statistical support."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Greg Hunt",
+    "section": "Contact",
+    "text": "Contact\nFor consulting inquiries, email me at:\ngreg@gjhunt.com\nPlease include a brief description of your project, your timeline, the data or study design involved, and the kind of statistical help you need."
+  }
+]
